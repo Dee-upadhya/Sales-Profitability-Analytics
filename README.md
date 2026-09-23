@@ -143,18 +143,5 @@ Before visualization:
 - Reconciled Sales, Cost and Gross Profit
 - Confirmed KPI totals against source data
 
-## 💡 Analyst Takeaway
 
-A dashboard should not end with:
-
-> **“Here are the numbers.”**
-
-It should help answer:
-
-> **“What changed, why does it matter, and what should we investigate next?”**
-
-This project demonstrates that principle using SQL, Excel and Power BI.
-
-## ⚠️ Disclaimer
-
-This is a **synthetic portfolio dataset** created for learning and demonstration. It does not represent actual company data or business performance.
+This is a **synthetic dataset** created based on my previous learning for demonstration. It does not represent actual company data or business performance.
