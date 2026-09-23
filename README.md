@@ -2,13 +2,13 @@
 
 > **Portfolio project:** From Raw Data → Analysis → Insight → Business Action
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a synthetic retail sales dataset to answer practical business questions around **revenue, profitability, products, regions, channels and discounting**.
 
 The goal is not simply to build a dashboard, but to demonstrate an end-to-end **Data Analyst workflow**.
 
-### Business Problem
+ ## Business Problem
 
 Management can see sales numbers, but needs to understand:
 
@@ -18,7 +18,7 @@ Management can see sales numbers, but needs to understand:
 - Which regions and channels need attention?
 - How is discounting affecting profitability?
 
-## 🛠 Tools
+## Tools
 
 - **SQL** — data analysis and business queries
 - **Microsoft Excel** — exploratory analysis and summaries
@@ -26,7 +26,7 @@ Management can see sales numbers, but needs to understand:
 - **DAX** — KPI calculations
 - **GitHub** — documentation and versioned portfolio
 
-## 🔄 Analytics Workflow
+## Analytics Workflow
 
 ```text
 Raw Data
@@ -46,7 +46,7 @@ Insights
 Business Actions
 ```
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Executive Overview
 - Revenue
@@ -75,7 +75,7 @@ Business Actions
 - Margin trend
 - Opportunity areas
 
-## 🔍 Key Analytical Questions
+## Key Analytical Questions
 
 1. Is revenue growing faster than gross profit?
 2. Which products contribute most to revenue?
@@ -84,7 +84,7 @@ Business Actions
 5. Which regions combine strong revenue with healthy margins?
 6. Which high-revenue products should be investigated for profitability?
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 sales-profitability-analytics/
@@ -103,7 +103,7 @@ sales-profitability-analytics/
 └── README.md
 ```
 
-## 📈 Power BI Measures
+## Power BI Measures
 
 Recommended core measures:
 
@@ -131,7 +131,7 @@ RETURN
     DIVIDE([Total Sales] - PreviousYear, PreviousYear)
 ```
 
-## ✅ Data Quality Checks
+## Data Quality Checks
 
 Before visualization:
 
